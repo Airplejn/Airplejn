@@ -20,4 +20,4 @@ It prevents kids from destroying your work!
 ## RatSense
 
 private hacked client.
-Dont ask for it. Probably it will never be public.
+Dont ask for it because probably it will never be public.
