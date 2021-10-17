@@ -16,3 +16,8 @@ It prevents kids from destroying your work!
 - **A** (Basic check for *spamming packets*)
 - **B** (Packet *value* check)
 - Soon more
+
+## RatSense
+
+private hacked client.
+Dont ask for it. Probably it will never be public.
