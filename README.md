@@ -1,5 +1,5 @@
 ## About me:
 
 - 💬 Java Developer
-- 🤔 Currently working on __**FunnyPacket**__
+- 🤔 Currently working on **FunnyPacket**
 - 🐀 *Szczór Company Member*
