@@ -4,6 +4,8 @@
 - 🤔 Currently working on **FunnyPacket** & **RatSense**
 - 🐀 *Szczór Company Member*
 
+[![](https://github-readme-stats.vercel.app/api?username=Airplejn)](https://github.com/anuraghazra/github-readme-stats)
+
 ## FunnyPacket
 
 is packet-based (ProtocolLib) protection for your minecraft server.
