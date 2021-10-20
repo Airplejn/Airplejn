@@ -20,10 +20,10 @@ It prevents kids from destroying your work!
 
 **Release/more info here soon**
 
-### Packet Checks:
-
 <details><summary></summary> 
 <p>
+  
+<h3 align="center">Packet Checks:</h1>
   
 - **A** (Basic check for *spamming packets*)
 - **B** (Packet *value* check)
