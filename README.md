@@ -5,6 +5,8 @@
 - 🐀 *Szczór Company Member*
 
 [![](https://github-readme-stats.vercel.app/api?username=Airplejn&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Airplejn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## FunnyPacket
 
