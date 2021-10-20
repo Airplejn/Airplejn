@@ -18,7 +18,8 @@ It prevents kids from destroying your work!
 
 **Release/more info here soon**
 
-### Packet Checks: <details><summary></summary>
+### Packet Checks: 
+<details><summary></summary>
 <p>
 
 ```python
