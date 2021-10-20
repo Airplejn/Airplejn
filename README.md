@@ -13,7 +13,7 @@ Not important rn
 -->
 
 
-## FunnyPacket
+<h2 align="center">FunnyPacket</h1>
 
 is packet-based (ProtocolLib) protection for your minecraft server.
 It prevents kids from destroying your work!
@@ -32,7 +32,7 @@ It prevents kids from destroying your work!
 </p>
 </details>
 
-## RatSense
+<h2 align="center">RatSense</h1>
 
 <details><summary></summary> 
 <p>
