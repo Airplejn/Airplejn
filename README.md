@@ -18,20 +18,16 @@ It prevents kids from destroying your work!
 
 **Release/more info here soon**
 
-### Packet Checks: 
-<details><summary></summary>
-<p>
+### Packet Checks: <details><summary></summary> <p>
 
-```python
-print("test!")
+```java
+- **A** (Basic check for *spamming packets*)
+- **B** (Packet *value* check)
+- Soon more
 ```
 
 </p>
 </details>
-
-- **A** (Basic check for *spamming packets*)
-- **B** (Packet *value* check)
-- Soon more
 
 ## RatSense
 
