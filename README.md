@@ -34,10 +34,11 @@ It prevents kids from destroying your work!
 
 <h2 align="center">RatSense</h1>
 
+private hacked client.
+
 <details><summary></summary> 
 <p>
 
-private hacked client.
 Dont ask for it because probably it will never be public.
   
 </p>
