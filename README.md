@@ -18,7 +18,15 @@ It prevents kids from destroying your work!
 
 **Release/more info here soon**
 
-### Packet Checks:
+### Packet Checks: <details><summary></summary>
+<p>
+
+```python
+print("test!")
+```
+
+</p>
+</details>
 
 - **A** (Basic check for *spamming packets*)
 - **B** (Packet *value* check)
