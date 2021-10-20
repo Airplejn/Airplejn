@@ -18,10 +18,11 @@ It prevents kids from destroying your work!
 
 **Release/more info here soon**
 
+### Packet Checks:
+
 <details><summary></summary> 
-
-### Packet Checks: <p>
-
+<p>
+  
 - **A** (Basic check for *spamming packets*)
 - **B** (Packet *value* check)
 - Soon more
@@ -31,5 +32,11 @@ It prevents kids from destroying your work!
 
 ## RatSense
 
+<details><summary></summary> 
+<p>
+
 private hacked client.
 Dont ask for it because probably it will never be public.
+  
+</p>
+</details>
