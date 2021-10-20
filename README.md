@@ -18,13 +18,13 @@ It prevents kids from destroying your work!
 
 **Release/more info here soon**
 
-### Packet Checks: <details><summary></summary> <p>
+### Packet Checks: 
+<details><summary></summary> 
+<p>
 
-```java
 - **A** (Basic check for *spamming packets*)
 - **B** (Packet *value* check)
 - Soon more
-```
 
 </p>
 </details>
