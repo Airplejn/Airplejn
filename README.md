@@ -19,18 +19,12 @@ is packet-based (ProtocolLib) protection for your minecraft server.
 It prevents kids from destroying your work!
 
 **Release/more info here soon**
-
-<details><summary></summary> 
-<p>
   
 <h3 align="center">Packet Checks:</h1>
   
 - **A** (Basic check for *spamming packets*)
 - **B** (Packet *value* check)
 - Soon more
-
-</p>
-</details>
 
 <h2 align="center">RatSense</h1>
 
