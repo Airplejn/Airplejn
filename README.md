@@ -1,6 +1,6 @@
 <h1 align="center">Airplejn</h1> 
 
-<h1 align="left">About me:</h1>
+<h2 align="left">About me:</h1>
 
 - 💬 Java Developer
 - 🤔 Currently working on **FunnyPacket** & **RatSense**
