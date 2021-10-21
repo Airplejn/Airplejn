@@ -1,6 +1,6 @@
 <h1 align="center">Airplejn</h1> 
 
-- 💬 Java Developer
+- 💬 Java/JavaScript/Html/C# Developer
 - 🤔 Currently working on **FunnyPacket** & **RatSense**
 - 🐀 *Szczór Company Member*
 
