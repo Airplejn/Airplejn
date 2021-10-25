@@ -11,15 +11,20 @@ Not important rn
 -->
 
 
-<h2 align="center">FunnyPacket</h1>
+<h2 align="center">FunnyPacket</h2>
 
 is packet-based (ProtocolLib) protection for your minecraft server.
 It prevents kids from destroying your work!
 
 **Release/more info here soon**
   
-<h3 align="center">Packet Checks:</h1>
+<h3 align="center">Packet Checks:</h3>
   
 - **A** (Basic check for *spamming packets*)
 - **B** (Packet *value* check)
 - Soon more
+
+<h2 align="center">Supreme Client Reborn</h2>
+
+open-sourced minecraft hacked client. Previously made by chmvrek.
+[Discord](https://discord.gg/438tphruZ5), [Official YouTube Channel](https://www.youtube.com/channel/UCazLVAioOpIo4tvVlHlteVg)
