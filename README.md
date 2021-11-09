@@ -23,8 +23,3 @@ It prevents kids from destroying your work!
 - **A** (Basic check for *spamming packets*)
 - **B** (Packet *value* check)
 - Soon more
-
-<h2 align="center">Supreme Client Reborn</h2>
-
-open-sourced minecraft hacked client. Previously made by chmvrek.
-[Discord](https://discord.gg/438tphruZ5), [Official YouTube Channel](https://www.youtube.com/channel/UCazLVAioOpIo4tvVlHlteVg)
