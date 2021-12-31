@@ -11,15 +11,4 @@ Not important rn
 -->
 
 
-<h2 align="center">FunnyPacket</h2>
-
-is packet-based (ProtocolLib) protection for your minecraft server.
-It prevents kids from destroying your work!
-
-**Release/more info here soon**
-  
-<h3 align="center">Packet Checks:</h3>
-  
-- **A** (Basic check for *spamming packets*)
-- **B** (Packet *value* check)
-- Soon more
+<h2 align="center">NecroProject</h2>
